@@ -44,7 +44,7 @@ I produced at least one of the following:
 - Line Chart
 - Scatter Plot 
 
-I also produced a heatmap demonstrating areas with earthquakes that have the highest magnitudes as shown below: 
+I also produced a geographical heatmap demonstrating areas with earthquakes that have the highest magnitudes as shown below: 
 
 ![](https://github.com/camilaballenghien/Assignment_wk3/blob/main/Heatmap.png) 
 
@@ -78,6 +78,20 @@ they are poisonous or not. This program uses mushroom characteristics to predict
 - SKlearn
 - AUC
 - ROC curve
+
+# [Project 9: Unsupervised Machine Learning Project: Country data for charity](https://github.com/camilaballenghien/Unsupervised-Machine-Learning-project-Using-K-Means/blob/main/country_data.ipynb) 
+The dataset used (from kaggle) contains socio-economic and health factors that determine the overall development of countries. The purpose of the dataset is to help a charity fighting poverty to identify groups of countries where it is needed most. This program groups together countries depending on how much help they need.
+- K means
+- Seaborn
+- SKlearn
+- Numpy
+- Pandas
+- Plotly
+
+The geographical map below is the result of the program: 
+![](https://github.com/camilaballenghien/Unsupervised-Machine-Learning-project-Using-K-Means/blob/main/Map%20of%20the%20world%20where%20help%20is%20most%20needed.png) 
+
+
 
 
 
