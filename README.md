@@ -48,4 +48,36 @@ I also produced a heatmap demonstrating areas with earthquakes that have the hig
 
 ![](https://github.com/camilaballenghien/Assignment_wk3/blob/main/Heatmap.png) 
 
+# [Project 6: Logistic regression with Titanic dataset](https://github.com/camilaballenghien/Logistic-Regression/blob/main/titanic_assessment.ipynb)
+This program uses the Titanic dataset from Kaggle. It includes data exploratory analysis to find meaningful correlation and logistic regression using the sklearn package 
+- Numpy 
+- Pandas
+- SKlearn 
+- Logistic Regression
+- ROC curve
+- AUC 
+
+# [Project 7: Neural Networks with Bank Churn modeling dataset](https://github.com/camilaballenghien/Bank-churn-Modeling-Artificial-Neural-Networks-project/blob/main/Neural_Supervised.ipynb)
+This program uses a Churn modeling dataset from Kaggle, it predicts using different variables whether a customer will exit the bank or not. 
+- Seaborn
+- Neural networks 
+- ROC curve 
+- Confusion matrix
+- AUC 
+- F1 Score 
+- Tensorflow
+
+# [Project 8: Supervised Machine Learning project: Mushroom dataset](https://github.com/camilaballenghien/Supervised-machine-learning-project-Mushroom-dataset/blob/main/mushrooms.ipynb)
+This dataset contains information on a number of mushrooms, as well as a label indicating if
+they are poisonous or not. This program uses mushroom characteristics to predict whether a mushroom is poisonous or not. 
+- Logistic Regression
+- Support Vector Machines
+- Seaborn
+- Numpy
+- Pandas
+- SKlearn
+- AUC
+- ROC curve
+
+
 
