@@ -43,7 +43,9 @@ I produced at least one of the following:
 - Box plot
 - Line Chart
 - Scatter Plot 
+
 I also produced a heatmap demonstrating areas with earthquakes that have the highest magnitudes as shown below: 
+
 ![](https://github.com/camilaballenghien/Assignment_wk3/blob/main/Heatmap.png) 
 
 
