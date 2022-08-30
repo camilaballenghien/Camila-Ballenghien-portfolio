@@ -80,7 +80,7 @@ they are poisonous or not. This program uses mushroom characteristics to predict
 - ROC curve
 
 # [Project 9: Unsupervised Machine Learning Project: Country data for charity](https://github.com/camilaballenghien/Unsupervised-Machine-Learning-project-Using-K-Means/blob/main/country_data.ipynb) 
-The dataset used (from kaggle) contains socio-economic and health factors that determine the overall development of countries. The purpose of the dataset is to help a charity fighting poverty to identify groups of countries where it is needed most. This program groups together countries depending on how much help they need.
+The dataset used (from kaggle) contains socio-economic and health factors that determine the overall development of countries. The purpose of the dataset is to help a charity fighting poverty to identify groups of countries where it is needed most. This program groups together countries in clusters depending on how much help they need.
 - K means
 - Seaborn
 - SKlearn
@@ -88,9 +88,21 @@ The dataset used (from kaggle) contains socio-economic and health factors that d
 - Pandas
 - Plotly
 
-The geographical map below is the result of the program: 
+The geographical map below is the result of the clustering: 
 ![](https://github.com/camilaballenghien/Unsupervised-Machine-Learning-project-Using-K-Means/blob/main/Map%20of%20the%20world%20where%20help%20is%20most%20needed.png) 
 
+# [Project 10: Final project: Anime recommendation system](https://github.com/camilaballenghien/Anime-Recommendation-Engine/blob/main/2nd_Draft.ipynb)
+This program is the final project of 2022 Data Science Bootcamp. It consists of a Hybrid Recommendation system for animes. I combined an item based recommendation engine and collaborative filtering into my final recommendation system. 
+- PCA 
+- K-means
+- Pandas
+- Sklearn
+- Numpy
+- TF-IDF (Text Frequence Inverse Document Frequency)
+- Count Vectorizer 
+- Cosine Similarity
+- WordCloud
+It uses 2 different datasets from Kaggle. One dataset contains, the synopsis of the anime, genre, score etc. The second dataset contains anime ID, User ID, and the score each user has given to each anime. These datasets contain recommendation data from 320.0000 users and 16.000 animes at myanimelist.net 
 
 
 
