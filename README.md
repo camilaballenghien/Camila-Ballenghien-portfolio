@@ -102,6 +102,7 @@ This program is the final project of 2022 Data Science Bootcamp. It consists of 
 - Count Vectorizer 
 - Cosine Similarity
 - WordCloud
+
 It uses 2 different datasets from Kaggle. One dataset contains, the synopsis of the anime, genre, score etc. The second dataset contains anime ID, User ID, and the score each user has given to each anime. These datasets contain recommendation data from 320.0000 users and 16.000 animes at myanimelist.net 
 
 
